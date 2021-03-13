@@ -1,2 +1,2 @@
 # 2020_AICUP
-醫病訊息決策與對話語料分析競賽資料去識別化前標
+Name Entity Recognition in Medical Data
