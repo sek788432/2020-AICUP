@@ -23,22 +23,22 @@ pip install "tensorflow>=1.14,<2.0"
 ---
 
 ### Sample Training Data
-![image](./readme_img/1.PNG)
+<img src="./readme_img/1.PNG" width="450">
 
 ---
 
 ### Sample Test Data
-![image](./readme_img/2.PNG)
+<img src="./readme_img/2.PNG" width="450">
 
 ---
 
 ### Output Format
-![image](./readme_img/6.PNG)
+<img src="./readme_img/6.PNG" width="450">
 
 ---
 
 ## [Name Entity Recognition Introduction](./NER_intro.pptx)
-![image](./readme_img/3.PNG)
+<img src="./readme_img/3.PNG" width="450">
 
 ---
 
@@ -47,12 +47,12 @@ pip install "tensorflow>=1.14,<2.0"
 ---
 
 ### Transfer Learning with pre-trained BERT and add BiLSTM + CRF layer
-![image](./readme_img/4.png)
+<img src="./readme_img/4.png" width="450">
 
 ---
 
 ### Bagging the outputs of all kinds of pre-trained BERT
-![image](./readme_img/5.PNG)
+<img src="./readme_img/5.PNG" width="450">
 
 ---
 
@@ -61,27 +61,27 @@ pip install "tensorflow>=1.14,<2.0"
 ---
 
 ### Google BERT Batch Size 24
-![image](./readme_img/7.PNG)
+<img src="./readme_img/7.PNG" width="450">
 
 ---
 
 ### Google BERT Batch Size 36
-![image](./readme_img/8.PNG)
+<img src="./readme_img/8.PNG" width="450">
 
 ---
 
 ### Roberta wwm
-![image](./readme_img/9.PNG)
+<img src="./readme_img/9.PNG" width="450">
 
 ---
 
 ### BERT wwm
-![image](./readme_img/10.PNG)
+<img src="./readme_img/10.PNG" width="450">
 
 ---
 
 ### Bagging the outputs
-![image](./readme_img/11.PNG)
+<img src="./readme_img/11.PNG" width="450">
 
 ---
 
