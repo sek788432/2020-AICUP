@@ -69,7 +69,7 @@ def split_sentence_tst(text,sequence_length):     #split with ， 。 ? and comb
         return_tmp = []
         while i < len(article):
             txt_sequence = []
-            while i < len(article) and len(txt_sequence) < sequence_length :   #and len(txt_sequence) < sequence_length
+            while i < len(article) and len(txt_sequence) < sequence_length :   
                 if article[i] == "，" or article[i]  == "。" or article[i]  == '?':
                     txt_sequence+=article[start_ind:i+1]
                     start_ind = i+1                
