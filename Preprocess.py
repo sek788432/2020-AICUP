@@ -81,12 +81,10 @@ def split_sentence_tst(text,sequence_length):     #split with ， 。 ? and comb
         
 def delete_some_sentence(x_train, y_train):
     for ind,item in enumerate(x_train):
-        check = True
         for j in range(len(item)):
             if y_train[ind][j] != "O":
-                check = False
                 break
-        if check:
+        else:
             del x_train[ind]
             del y_train[ind]
     return x_train, y_train
